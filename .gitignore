@@ -1,0 +1,10 @@
+/*
+
+/downloads/*
+!/downloads/.gitkeep
+
+!yt-archiver.sh
+!channels.example.csv
+
+!README.md
+!LICENSE
