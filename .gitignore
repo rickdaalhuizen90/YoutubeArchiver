@@ -1,0 +1,7 @@
+*.DS_Store
+
+/downloads/*
+!/downloads/.gitkeep
+
+.env
+client_secrets.json
