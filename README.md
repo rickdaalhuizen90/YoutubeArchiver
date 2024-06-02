@@ -11,8 +11,7 @@ YouTube Archiver is a tool designed to create offline backups of your favorite Y
 
 2. Execute the script to commence archiving your YouTube videos.
     ```bash
-    chmod +x ./yt-archiver.sh
-    ./yt-archiver.sh
+    python yt-archiver.py
     ```
 
 ### Note:

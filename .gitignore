@@ -1,9 +1,6 @@
 /*
 
-/downloads/*
-!/downloads/.gitkeep
-
-!yt-archiver.sh
+!yt-archiver.py
 !channels.example.csv
 
 !README.md
